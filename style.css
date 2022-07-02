@@ -1,0 +1,99 @@
+body
+{
+  width: 50%;
+  margin: 0 auto;
+  background: linear-gradient(to right, #bbd2c5, #536976, #292e49);
+  color:floralwhite;
+  font-family: 'Bungee';
+  font-size:40px;
+  
+
+}
+
+input{
+   text-align:center;
+}
+
+  
+.container{
+  width: 400px;
+}
+
+
+#userinput
+{
+  width:300px;
+  height:46px;
+  border:6px solid black;
+  outline:none;
+  font-size:25px;
+  vertical-align:middle;
+
+}
+
+#enter
+{
+  height:60px;
+  width:70px;
+  border:6px solid black;
+  vertical-align:middle;
+  font-size:30px;
+}
+
+.btnStyle{
+  height:60px;
+  width:100px;
+  border:6px solid black;
+  font-family: 'Bungee';
+  font-size:15px;
+  
+}
+
+.coolTitle{
+  text-align: center;
+  font-family: 'Bungee';
+  font-size: 60px;
+  transform: skewY(-3deg);
+  letter-spacing: 4px;
+  word-spacing: -8px;
+  color: tomato;
+  text-shadow: 
+    -1px -1px 0 firebrick,
+    -2px -2px 0 firebrick,
+    -3px -3px 0 firebrick,
+    -4px -4px 0 firebrick,
+    -5px -5px 0 firebrick,
+    -6px -6px 0 firebrick,
+    -7px -7px 0 firebrick,
+    -8px -8px 0 firebrick,
+    -30px 20px 40px dimgrey
+}
+
+.coolTitle2{
+  text-align: center;
+  font-family: 'Bungee';
+  font-size: 55px;
+  transform: skewY(-3deg);
+  letter-spacing: 4px;
+  word-spacing: -8px;
+  color: aquamarine;
+  text-shadow: 
+    -1px -1px 0 #61E1B6,
+    -2px -2px 0 #61E1B6,
+    -3px -3px 0 #61E1B6,
+    -4px -4px 0 #61E1B6,
+    -5px -5px 0 #61E1B6,
+    -6px -6px 0 #61E1B6,
+    -7px -7px 0 #61E1B6,
+    -8px -8px 0 #61E1B6,
+    -30px 20px 40px dimgrey
+}
+
+
+
+
+.done{
+  color: darksalmon;
+  text-decoration:line-through;
+}
+
